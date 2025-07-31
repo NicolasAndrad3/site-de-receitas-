@@ -1,4 +1,4 @@
-# 🍽️ CookMind - Site de Receitas com IA
+# 🍽️ CookMind - Site de Receitas
 
 Projeto Full Stack de uma aplicação de receitas interativas com busca inteligente via Algolia, autenticação e base de dados no Firebase, e pagamentos simulados com Stripe.  
 Layout totalmente responsivo para desktop e mobile. Construído com React + Vite, TailwindCSS, Node.js, TypeScript e integrações em tempo real.

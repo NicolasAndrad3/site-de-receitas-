@@ -1,18 +1,20 @@
-# CookMind - Site de Receitas
+#  CookMind – Recipe Website
+Full Stack project of an interactive recipe application with intelligent search powered by Algolia, authentication and database on Firebase, and simulated payments with Stripe.
+Fully responsive layout for both desktop and mobile. Built with React + Vite, TailwindCSS, Node.js, TypeScript, and real-time integrations.
 
-Projeto Full Stack de uma aplicação de receitas interativas com busca inteligente via Algolia, autenticação e base de dados no Firebase, e pagamentos simulados com Stripe.  
-Layout totalmente responsivo para desktop e mobile. Construído com React + Vite, TailwindCSS, Node.js, TypeScript e integrações em tempo real.
+Technologies used
 
----
+React + TypeScript + Vite
 
-# Tecnologias utilizadas
+Firebase (Auth + Firestore)
 
-- React + TypeScript + Vite
-- Firebase (Auth + Firestore)
-- Algolia (busca inteligente)
-- Stripe (pagamento fake com botão de compra)
-- TailwindCSS + Framer Motion (animações)
-- Layout minimalista com UI moderna
+Algolia (intelligent search)
+
+Stripe (mock payment with purchase button)
+
+TailwindCSS + Framer Motion (animations)
+
+Minimalist layout with a modern UI
 
 ---
 

@@ -2,19 +2,19 @@
 Full Stack project of an interactive recipe application with intelligent search powered by Algolia, authentication and database on Firebase, and simulated payments with Stripe.
 Fully responsive layout for both desktop and mobile. Built with React + Vite, TailwindCSS, Node.js, TypeScript, and real-time integrations.
 
-Technologies used
+Technologies used:
 
-React + TypeScript + Vite
+- React + TypeScript + Vite
 
-Firebase (Auth + Firestore)
+- Firebase (Auth + Firestore)
 
-Algolia (intelligent search)
+- Algolia (intelligent search)
 
-Stripe (mock payment with purchase button)
+- Stripe (mock payment with purchase button)
 
-TailwindCSS + Framer Motion (animations)
+- TailwindCSS + Framer Motion (animations)
 
-Minimalist layout with a modern UI
+- Minimalist layout with a modern UI
 
 ---
 
